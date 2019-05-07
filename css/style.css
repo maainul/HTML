@@ -1,0 +1,30 @@
+body {
+	background-color:powderblue;
+}
+	
+h1 {
+	border:2px solid black;
+	color:rgb(0, 238, 0);
+	background-color:red;
+	font-family:arial;
+	font-size:200%;
+	text-align:center;
+}
+	
+h2 {
+	color:green;
+}
+
+p {
+	background-color:rgb(94, 188, 0);
+	border:5px solid red;
+	padding:30px;
+	margin:30px;
+	font-size:200%;
+}	
+#p01{
+	background-color:black;
+	color:white;
+	padding:0px;
+	margin:0px;
+}
